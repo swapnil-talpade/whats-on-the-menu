@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # whats-on-the-menu
 =======
 # Getting Started with Create React App
@@ -71,4 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> Created a basic CRUD app with firebase and ReactJS
+
